@@ -1,4 +1,4 @@
-# csuVPN-for-linux
+# aTrust-of-CSU
 中南大学VPN客户端（aTrust）自动安装脚本 — 支持 Windows / macOS / Linux
 
 ## 快速开始
